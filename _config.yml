@@ -16,8 +16,8 @@
 title: Base to Develop Jekyll
 email: denismanfroi@outlook.com
 description: "Base para desenvolvimento de um site feito em jekyll"
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/base-jekyll" # the subpath of your site, e.g. /blog
+url: "https://denismanfroi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  denismanfroi
 
 # Build settings
